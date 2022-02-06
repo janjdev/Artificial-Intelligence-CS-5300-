@@ -3,10 +3,10 @@ Build, train, and evaluate a feed-forward neural network  using Tensorflow or Ke
 
 [Course Info](https://badriadhikari.github.io/AI/)
 
-##Course Description
+## Course Description
 Provided an introduction to artificial intelligence (AI). The list of topics may include artificial neural networks, search, planning, knowledge-based reasoning, probabilistic inference, machine learning, natural language processing, and practical applications.
 
-##Course Goals
+## Course Goals
 Use Python, Numpy and Keras to design, train, and evaluate basic feed-forward neural networks
 Learn artificial intelligence principles and approaches
 Learn a basic understanding of the building blocks of AI as presented in terms of intelligent agents
@@ -15,7 +15,7 @@ Understand problems and ideas in the field of natural language processing, perce
 Learn the philosophical foundations of AI and the future of AI
 Implement various AI algorithms such as depth-first search and breadth-first search.
 
-##Topics
+## Topics
 - Intelligent Agents
 - Solving Problems by Searching
 - Adversarial Search
@@ -33,8 +33,8 @@ Implement various AI algorithms such as depth-first search and breadth-first sea
 - The Future of AI
 - Machine learning using Tensorflow
 
--Basics of Python, Numpy, and Keras
--Design, train, and evaluate basic feed-forward neural networks
--Study feature importance and feature reduction
+- Basics of Python, Numpy, and Keras
+- Design, train, and evaluate basic feed-forward neural networks
+- Study feature importance and feature reduction
 
 
